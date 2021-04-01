@@ -1,6 +1,6 @@
 {
   "name": "plate",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -20,6 +20,9 @@
   },
   "homepage": "https://github.com/plate-sh/plate#readme",
   "dependencies": {
-    "commander": "^7.2.0"
+    "chalk": "^4.1.0",
+    "commander": "^7.2.0",
+    "inquirer": "^8.0.0",
+    "shelljs": "^0.8.4"
   }
 }
